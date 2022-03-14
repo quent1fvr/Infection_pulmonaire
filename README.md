@@ -1,3 +1,5 @@
+# Projet de détection d'infection pulmonaire
+
 Les techniques de vision par ordinateur peuvent être employées pour l’analyse d’images issues de capteurs
 médicaux, par exemple pour l’aide au diagnostic et le suivi
 de patient. L’objectif de ce projet est de proposer un
