@@ -1,4 +1,4 @@
-# Projet de détection d'infection pulmonaire
+# Projet de détection d'infection pulmonaire (Covid)
 
 ## Résumé / Abstract
 
