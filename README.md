@@ -31,3 +31,6 @@ Technical environment: Programming in Python,
 computer vision libraries (OpenCV, scikitimage), Keras deep learning library
 
 ## Organisation du repo
+
+- "*pre_processing.*"
+Le but de ce notebook est de réaliser l'ensemble des pre-processing utiles aux modèles d'apprentissages mis en place dans le notebook "model.ipynb". Afin de définir un couple modèle + pre-processing idéal, nous avons réalisé ici un total de 6 méthodes de pre-processing.
