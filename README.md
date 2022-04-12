@@ -39,6 +39,6 @@ Le but de ce notebook est de réaliser l'ensemble des pre-processing utiles aux 
 - "*model.ipynb*"
 
 Le but de ce notebook est de réaliser de la K-fold cross validation sur les différents datasets que l'on a créé dans le notebook "pre_processing.ipynb". Les différentes méthodes de pre-processing y sont définies, ainsi nous conseillons de regarder le fichier en détail comprendre pour la différence entre chaque dataset. Ici les datasets sont utilisés avec les deux modèles suivants :
--- Un modèle RNN de convolution2D avec cellule GRU
--- Un modèle de convolution3D
+   - Un modèle RNN de convolution2D avec cellule GRU
+   - Un modèle de convolution3D
 
