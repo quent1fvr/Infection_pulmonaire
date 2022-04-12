@@ -1,5 +1,7 @@
 # Projet de détection d'infection pulmonaire
 
+## Résumé / Abstract
+
 Les techniques de vision par ordinateur peuvent être employées pour l’analyse d’images issues de capteurs
 médicaux, par exemple pour l’aide au diagnostic et le suivi
 de patient. L’objectif de ce projet est de proposer un
@@ -11,7 +13,7 @@ patients (patient sain, patient souffrant de pneumonie,
 patient souffrant de Covid-19). 
 
 
-- Environnement technique : Programmation en Python,
+Environnement technique : Programmation en Python,
 bibliothèques de vision par ordinateur (OpenCV, scikitimage), bibliothèque de deep learning Keras
 
 Computer vision techniques can be used for the analysis of images from medical sensors, for example to
@@ -25,5 +27,7 @@ patients (healthy patient, patient suffering from pneumonia
 patient suffering from Covid-19). 
 
 
-- Technical environment: Programming in Python,
+Technical environment: Programming in Python,
 computer vision libraries (OpenCV, scikitimage), Keras deep learning library
+
+## Organisation du repo
