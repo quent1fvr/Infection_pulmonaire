@@ -32,5 +32,12 @@ computer vision libraries (OpenCV, scikitimage), Keras deep learning library
 
 ## Organisation du repo
 
-- "*pre_processing.*"
+- "*pre_processing.ipynb*"
 Le but de ce notebook est de réaliser l'ensemble des pre-processing utiles aux modèles d'apprentissages mis en place dans le notebook "model.ipynb". Afin de définir un couple modèle + pre-processing idéal, nous avons réalisé ici un total de 6 méthodes de pre-processing.
+
+- "*model.ipynb*"
+Le but de ce notebook est de réaliser de la K-fold cross validation sur les différents datasets que l'on a créé dans le notebook "pre_processing.ipynb". Les différentes méthodes de pre-processing y sont définies, ainsi nous conseillons de regarder le fichier en détail comprendre pour la différence entre chaque dataset. Ici les datasets sont utilisés avec les deux modèles suivants :
+
+Un modèle RNN de convolution2D avec cellule GRU
+un modèle de convolution3D
+
